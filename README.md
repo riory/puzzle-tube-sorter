@@ -4,7 +4,9 @@ This project allows to tinker with bead sorting on spindles.
 
 It was inspired by this @TheVillageAvengers YouTube short: [Colour sorting challenge](https://youtube.com/shorts/LZfMWS_Q4gs?si=Ru9P5q_8EJdP7LT8)
 
-![YT screenshot](/media/source.png "YT screenshot")
+<center>
+<img src="/media/source.png" width="200"/>
+</center>
 
 ## Premise
 - There is a total of 6 spindles
