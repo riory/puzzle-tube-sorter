@@ -2,9 +2,9 @@
 
 This project allows to tinker with bead sorting on spindles.
 
-It was inspired by this YouTube short: https://youtube.com/shorts/LZfMWS_Q4gs?si=Ru9P5q_8EJdP7LT8
+It was inspired by this @TheVillageAvengers YouTube short: [Colour sorting challenge](https://youtube.com/shorts/LZfMWS_Q4gs?si=Ru9P5q_8EJdP7LT8)
 
-![Sample of RandomStrategySolver run](/media/sample_solve.png "Sample of RandomStrategySolver run")
+![YT screenshot](/media/source.png "YT screenshot")
 
 ## Premise
 - There is a total of 6 spindles
@@ -15,6 +15,8 @@ It was inspired by this YouTube short: https://youtube.com/shorts/LZfMWS_Q4gs?si
 - To finish solving, last spindle should be empty in the end
 
 ## App
+![Sample of RandomStrategySolver run](/media/sample_solve.png "Sample of RandomStrategySolver run")
+
 
 Application is working in 2 **gameModes**: **Manual** and **Solver**
 
