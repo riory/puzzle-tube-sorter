@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "puzzle-tube-sorter": {
+      "commandName": "Project",
+      "commandLineArgs": "gameMode=Manual\r\n"
+    }
+  }
+}

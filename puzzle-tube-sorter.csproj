@@ -8,6 +8,9 @@
     <Nullable>enable</Nullable>
     <PublishAot>true</PublishAot>
     <InvariantGlobalization>true</InvariantGlobalization>
+    <StartupObject>puzzle_tube_sorter.Program</StartupObject>
+    <Configurations>Debug;Release;Debug-Manual</Configurations>
+    <AnalysisLevel>preview</AnalysisLevel>
   </PropertyGroup>
 
 </Project>
