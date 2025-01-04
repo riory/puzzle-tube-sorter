@@ -4,6 +4,8 @@ This project allows to tinker with bead sorting on spindles.
 
 It was inspired by this YouTube short: https://youtube.com/shorts/LZfMWS_Q4gs?si=Ru9P5q_8EJdP7LT8
 
+![Sample of RandomStrategySolver run](/media/sample_solve.png "Sample of RandomStrategySolver run")
+
 ## Premise
 - There is a total of 6 spindles
 - Last spindle is initially empty
